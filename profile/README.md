@@ -1,6 +1,7 @@
-<h1 align="center">CardMesh</h1>
-
-> CardMesh is entirely free and fully open-source. 🚀
+<div align="center">
+<h1>CardMesh</h1>
+    CardMesh is entirely free and fully open-source. 🚀
+</div>
 
 ### About
 
@@ -8,7 +9,7 @@ CardMesh is an application aimed at modernizing the sharing of business cards wi
 business
 cards in a web browser, accessible via NFC tags, QR-codes, or direct URLs.
 
-The application is composed of a SvelteKit frontend and a Node.js REST API backend. To run the application, you need to
+The application is composed of a SvelteKit frontend and an Express REST API backend. To run the application, you need to
 install both the web application and the REST API. The utilized database is MongoDB.
 
 Web App: https://github.com/CardMesh/web-app  
@@ -20,10 +21,13 @@ REST API: https://github.com/CardMesh/rest-api
 
 #### Frontend
 
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)](#)
+[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&style=flat&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)](#)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)](#)
 
 #### Backend
 
