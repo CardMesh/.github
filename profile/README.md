@@ -15,7 +15,11 @@ install both the web application and the REST API. The utilized database is Mong
 Web App: https://github.com/CardMesh/web-app  
 REST API: https://github.com/CardMesh/rest-api
 
-![img](https://github.com/CardMesh/.github/blob/main/profile/img/screenshot.png)
+![personal_dashboard](https://github.com/CardMesh/.github/blob/main/profile/img/personal_dashboard.png)  
+![vcard](https://github.com/CardMesh/.github/blob/main/profile/img/vcard.png)  
+![themes](https://github.com/CardMesh/.github/blob/main/profile/img/themes.png)  
+![edit_theme](https://github.com/CardMesh/.github/blob/main/profile/img/edit_theme.png)  
+![users](https://github.com/CardMesh/.github/blob/main/profile/img/users.png)  
 
 ### Tech Stack
 
