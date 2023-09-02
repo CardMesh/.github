@@ -19,7 +19,7 @@ REST API: https://github.com/CardMesh/rest-api
 ![vcard](https://github.com/CardMesh/.github/blob/main/profile/img/vcard.png)  
 ![themes](https://github.com/CardMesh/.github/blob/main/profile/img/themes.png)  
 ![edit_theme](https://github.com/CardMesh/.github/blob/main/profile/img/edit_theme.png)  
-![users](https://github.com/CardMesh/.github/blob/main/profile/img/users.png)  
+![users](https://github.com/CardMesh/.github/blob/main/profile/img/users.png)
 
 ### Tech Stack
 
@@ -66,8 +66,7 @@ cost-effective, and innovative way.
 
 ### NFC-tags
 
-CardMesh is compatible with NFC tags. The NFC tag should have a minimum capacity of 90 bytes. We recommend using NTAG213
-type tags in conjunction with the application.
+CardMesh is compatible with NFC tags. We recommend using NTAG215 type tags in conjunction with the application.
 
 ### License
 
